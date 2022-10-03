@@ -8,6 +8,10 @@ namespace BubbleShort
         {
 
         }
+        public void rumus()
+        {
+
+        }
     }
     class Program
     {
